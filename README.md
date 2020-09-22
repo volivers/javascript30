@@ -6,7 +6,7 @@ Sign up at https://javascript30.com/
 
 ## Table of Content
 
-- [ ] 01. JavaScript Drum Kit
+- [x] 01. JavaScript Drum Kit
 - [x] 02. CSS + JS Clock
 - [ ] 03. Playing with CSS Variables and JS
 - [ ] 04. Array Cardio Day 1
