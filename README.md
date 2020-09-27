@@ -8,9 +8,9 @@ Sign up at https://javascript30.com/
 
 - [x] 01. JavaScript Drum Kit
 - [x] 02. CSS + JS Clock
-- [ ] 03. Playing with CSS Variables and JS
+- [x] 03. Playing with CSS Variables and JS
 - [ ] 04. Array Cardio Day 1
-- [ ] 05. Flex Panels Image Gallery
+- [x] 05. Flex Panels Image Gallery
 - [ ] 06. Ajax Type Ahead
 - [ ] 07. Array Cardio Day 2
 - [ ] 08. Fun with HTML5 Canvas
